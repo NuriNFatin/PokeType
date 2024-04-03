@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Pokemon Type</string>
+
+    <string name="poketype_name">Type Pokemon</string>
+    <string name="description">Description</string>
+    <string name="about">About</string>
+
+    <string-array name="data_name">
+        <item>Fire</item>
+        <item>Water</item>
+        <item>Grass</item>
+        <item>Electric</item>
+        <item>Normal</item>
+        <item>Ice</item>
+        <item>Poison</item>
+        <item>Fighting</item>
+        <item>Ground</item>
+        <item>Rock</item>
+        <item>Psychic</item>
+        <item>Bug</item>
+        <item>Flying</item>
+        <item>Dragon</item>
+        <item>Fairy</item>
+        <item>Ghost</item>
+        <item>Dark</item>
+        <item>Steel</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item> The Fire type strength in Pokemon is the ability to fight Grass, Bug, Ice, and Steel types. However, they are vulnerable to Water, Rock, and Dragon type attacks. Apart from that, some Fire-type Pokemon also have attacks with additional effects such as Burn which can gradually damage their opponents. Some examples of Fire-type Pokemon include Charizard, Arcanine, Ninetales, Blaziken, Rapidash, and Entei. They all have diverse abilities and unique strengths in battle.</item>
+        <item> Water types in Pokemon have strength against Fire, Ground, and Rock types, making them very useful against Pokemon with these types. Some famous Water-type Pokemon include Blastoise, Gyarados, Swampert, Milotic, Lapras, and Vaporeon. They often have powerful and varied water attacks, as well as the ability to overcome many challenges in the Pokemon world. </item>
+        <item> Grass type in Pokemon has strength against Water, Ground, and Rock types. They also have weaknesses against Fire, Ice, Poison, Flying, and Bug types. Examples of Grass-type Pokemon include Venusaur, Sceptile, Torterra, Roserade, Breloom, and Serperior. They often have strong Grass-type attacks as well as additional attacks such as Sleep Powder or Leech Seed that can disrupt opponents in battle. </item>
+        <item> Electric types in Pokemon have strength against Water and Flying types. They also have a weakness against Ground types. Famous Electric-type Pokemon include Pikachu, Raichu, Jolteon, Electabuzz, Ampharos, and Magnezone. They often have powerful electric attacks as well as the ability to paralyze their opponents, making them very useful in combat. </item>
+        <item> Normal types in Pokemon are very common types and usually have no weaknesses against other types, except Fighting types. They often have a variety of attacks and abilities that can vary. Examples of Normal-type Pokemon include Pikachu, Eevee, Snorlax, Pidgey, Rattata, and Lickitung. Although they may look ordinary, some Normal Pokemon have great potential in battle and are often an important part of a Pokemon team. </item>
+        <item> The Ice type in Pokemon has strength against Grass, Ground, Flying, and Dragon types. However, they are vulnerable to Fire, Fighting, Rock, and Steel type attacks. Some examples of Ice-type Pokemon include Articuno, Lapras, Cloyster, Glaceon, and Walrein. They often have powerful Ice-type attacks and the ability to present an extra challenge to opponents in battle. </item>
+        <item> Poison types in Pokemon have strength against Grass and Fairy types, but they are vulnerable to Ground and Psychic types. Some examples of Poison-type Pokemon include Bulbasaur, Nidoking, Crobat, Gengar, Toxicroak, and Salazzle. They often have poisonous attacks that can damage opponents over time or cause poisonous status effects, making them useful in long-term combat. </item>
+        <item> Fighting types in Pokemon have strength against Normal, Ice, Rock, Dark, and Steel types. They are also vulnerable to Psychic, Flying, and Fairy type attacks. Examples of Fighting-type Pokemon include Machamp, Lucario, Blaziken, Conkeldurr, Hariyama, and Hitmonlee. They often have powerful Fighting-type attacks and great fighting abilities in battle. </item>
+        <item> Ground type in Pokemon has strength against Fire, Electric, Poison, Rock and Steel types. They are also unaffected by Electric type attacks. However, they are vulnerable to Water, Grass, and Ice type attacks. Examples of Ground-type Pokemon include Golem, Rhydon, Flygon, Swampert, Donphan, and Garchomp. They often have the ability to use powerful ground attacks, such as Earthquake or Earth Power. </item>
+        <item> Rock type in Pokemon has strength against Fire, Flying, Bug, and Ice types. However, they are vulnerable to Water, Grass, Ground, and Fighting type attacks. Examples of Rock-type Pokemon include Tyranitar, Aerodactyl, Golem, Rhyperior, Onix, and Aggron. They often have strong resistance and deadly attacks, making them a threat on the battlefield. </item>
+        <item> Psychic types in Pokemon have strength against Fighting and Poison types, while they are vulnerable to attacks from Bug, Ghost, and Dark types. Psychic type Pokemon are often known for their ability to use psychic attacks and mental powers. Examples of Psychic-type Pokemon include Mewtwo, Alakazam, Espeon, Gardevoir, Metagross, and Reuniclus. They often have powerful psychic attacks and the ability to manipulate opponents minds in battle. </item>
+        <item> Bug type Pokemon have strength against Grass, Psychic, and Dark types, but are vulnerable to Fire, Flying, and Rock type attacks. Examples of Bug-type Pokemon include Scyther, Pinsir, Butterfree, Heracross, Yanmega, and Galvantula. They often have attacks with additional effects such as Poison or Sleep, and some of them have the ability to increase speed or reduce the opponent defense. </item>
+        <item> Flying types in Pokemon have strength against Grass, Bug, and Fighting types. They also often have the ability to dodge ground attacks. However, they are vulnerable to Electric, Ice, and Rock type attacks. Examples of Flying-type Pokemon include Pidgeot, Charizard, Staraptor, Crobat, Braviary, and Talonflame. They often have powerful flying attacks as well as a variety of abilities to support their team in battle. </item>
+        <item> The Dragon type in Pokemon is considered one of the most powerful and legendary types. They have strength against Dragon types themselves and Flying types. They also have a weakness against Ice and Fairy types. Examples of Dragon-type Pokemon include Dragonite, Salamence, Garchomp, Hydreigon, Kommo-o, and Rayquaza. Dragon-type Pokemon often have high stats and powerful attacks, making them a popular choice in battle teams. </item>
+        <item> The Fairy type in Pokemon is a relatively new type introduced in the latest generation. They have strength against Dragon, Fighting, and Dark types, while being vulnerable to Poison and Steel types. Examples of Fairy-type Pokemon include Gardevoir, Togekiss, Clefable, Sylveon, Mimikyu, and Magearna. They often have attacks with additional effects such as reducing an opponent strength or healing themselves, making them a valuable addition to a Pokemon team. </item>
+        <item> The Ghost type in Pokemon has strength against Ghost and Psychic types. They are vulnerable to attacks from Ghost and Dark types. Examples of Ghost-type Pokemon include Gengar, Haunter, Misdreavus, Sableye, Banette, and Dusknoir. They often have attacks that focus on scaring opponents or disrupting their strategies, such as Curse or Confuse Ray. Some also have the ability to disappear or bypass opponents attacks with their Ghost skill. </item>
+        <item> Dark types in Pokemon have strength against Psychic and Ghost types, making them effective against Pokemon with these types. However, they are vulnerable to Fighting and Bug type attacks. Examples of Dark-type Pokemon include Umbreon, Absol, Tyranitar, Houndoom, Weavile, and Pangoro. They often have the ability to inflict negative status effects on opponents or have attacks that utilize darkness or evil. </item>
+        <item> The Steel type in Pokemon is a relatively strong type and has a lot of resistance to attacks from other types. They have strength against Fairy, Ice, and Rock types. However, they are vulnerable to attacks from Fire, Fighting, and Ground types. Examples of Steel-type Pokemon include Metagross, Steelix, Lucario, Scizor, Aggron, and Ferrothorn. They often have strong defenses and deadly Steel-type attacks. </item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/fire</item>
+        <item>@drawable/water</item>
+        <item>@drawable/grass</item>
+        <item>@drawable/electric</item>
+        <item>@drawable/normal</item>
+        <item>@drawable/ice</item>
+        <item>@drawable/poison</item>
+        <item>@drawable/fighting</item>
+        <item>@drawable/ground</item>
+        <item>@drawable/rock</item>
+        <item>@drawable/psychic</item>
+        <item>@drawable/bug</item>
+        <item>@drawable/flying</item>
+        <item>@drawable/dragon</item>
+        <item>@drawable/fairy</item>
+        <item>@drawable/ghost</item>
+        <item>@drawable/dark</item>
+        <item>@drawable/steel</item>
+    </integer-array>
+</resources>
